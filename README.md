@@ -10,5 +10,5 @@
 
 # Version
 
-1.3.3.20160927_release
+1.4.4.20161008_release
 
